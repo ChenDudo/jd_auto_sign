@@ -17,3 +17,4 @@ fork 仓库
 复制冒号以后的内容到仓库的 setting 中的 Secrets ，新建一个 `JD_COOKIE`，内容是复制内容。
 
 仓库的 Action 中开启 Action
+
